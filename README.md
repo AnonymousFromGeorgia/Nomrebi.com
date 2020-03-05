@@ -16,7 +16,7 @@ python3 Nomrebi.py
 
 ```bash
 pkg upgrade
-pk install git
+pkg install git
 pkg install python
 pkg install pip
 git clone https://github.com/AnonymousFromGeorgia/Nomrebi.com.git
