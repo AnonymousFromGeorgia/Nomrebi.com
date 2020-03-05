@@ -15,10 +15,10 @@ python3 Nomrebi.py
 ## ინსტალაცია და გამოყენება (Termux)
 
 ```bash
-pkg upgrade
-pkg install git
-pkg install python
-pkg install pip
+pkg upgrade y
+pkg install git y
+pkg install python y
+pkg install pip y
 git clone https://github.com/AnonymousFromGeorgia/Nomrebi.com.git
 cd Nomrebi.com
 pip3 install -r requirements.txt
