@@ -4,6 +4,7 @@
 <br>Facebook - https://facebook.com/anonimaluri
 <br>Github - https://github.com/AnonymousFromGeorgia
 <br>Website - http://anonymousfg.66ghz.com
+<br>Twitter - https://twitter.com/anonimaluri
 ## ინსტალაცია და გამოყენება
 
 ```bash
