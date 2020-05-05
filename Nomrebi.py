@@ -5,6 +5,17 @@ import pyfiglet
 result = pyfiglet.figlet_format("Nomrebi.com") 
 print(result)
 
+import os
+os.system('clear')
+
+import signal
+
+def keyboardInterruptHandler(signal, frame):
+    print("\nპროგრამა გაითიშა.".format(signal))
+    exit(0)
+
+signal.signal(signal.SIGINT, keyboardInterruptHandler)
+
 print("Nomrebi.com პარსერი")
 print("---------------------------------------------------")
 print("https://github.com/AnonymousFromGeorgia/Nomrebi.com")
