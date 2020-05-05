@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
+import os
+os.system('clear')
+
 import pyfiglet 
   
 result = pyfiglet.figlet_format("Nomrebi.com") 
 print(result)
-
-import os
-os.system('clear')
 
 import signal
 
