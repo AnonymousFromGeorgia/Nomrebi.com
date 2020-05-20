@@ -14,5 +14,9 @@ pip3 install -r requirements.txt
 python3 Nomrebi.py
 ```
 
+<h2>ფოტო</h2>
+
+![Preview](https://i.ibb.co/FB2jcz5/foto-no-exif.png)
+
 <h2>ვიდეო</h2>
 <a href="https://www.youtube.com/watch?v=9KjlXmYepGk"><img src="https://i.ibb.co/b2tmBGq/foto-no-exif.png" style="max-width:100%;"></a>
